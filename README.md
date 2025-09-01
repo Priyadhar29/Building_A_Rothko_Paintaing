@@ -27,8 +27,7 @@ Rothko-Painting/
 ---
 
 ## 🔗 Live Demo
-[View Live Demo](https://priyadhar29.github.io/Box%20Model%20a%20Rothko%20Painting/)  
-*(Ensure GitHub Pages is enabled for the folder.)*
+[View Live Demo](https://priyadhar29.github.io/Building_A_Rothko_Paintaing/)
 
 ---
 
